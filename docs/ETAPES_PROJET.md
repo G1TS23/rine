@@ -47,7 +47,7 @@ Sujet libre seulement :
 ### 1.2 Créer le dépôt de l'équipe
 
 - [x] Créer le dépôt git et donner l'accès aux membres de l'équipe.
-- [ ] Mettre en place la structure demandée :
+- [x] Mettre en place la structure demandée :
 
 ```text
 <équipe>/
