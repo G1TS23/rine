@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+secrets/
+
+# Generated data: rebuilt by the seeded generator in bench/
+data/
+
+# Personal tool settings
+.claude/settings.local.json
+.idea/
+.vscode/
+.DS_Store
+
+*.log
