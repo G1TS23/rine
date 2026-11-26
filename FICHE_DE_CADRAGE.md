@@ -9,13 +9,13 @@ Les choix de cette fiche sont ceux de l'équipe : les approches, les prédiction
 ## 1. L'équipe
 
 - Nom de l'équipe : rine
-- Adresse du dépôt : ...
+- Adresse du dépôt : [...](https://github.com/G1TS23/rine)
 
 | Prénom et nom | Brique dont il ou elle est responsable |
 | --- | --- |
-| ... | ... |
-| ... | ... |
-| ... | ... |
+| Olivier Falahi | ... |
+| Tanguy Pisano | ... |
+| Théo Gillet | ... |
 
 En trio, chacun est responsable d'au moins une brique ; en duo, chacun en a deux. Le responsable porte les commits, l'ADR et les questions de sa brique : au pitch du 5 mars, c'est lui qui répond.
 
@@ -24,7 +24,7 @@ En trio, chacun est responsable d'au moins une brique ; en duo, chacun en a deux
 - Le sujet choisi (1 pour le sujet libre ; 2, 3, 4 ou 5) : 1, le sujet libre.
 - Le client, en une ligne (l'entreprise, son activité) : ...
 - Sa question, telle que le cahier des charges la pose : ...
-- Ce que votre application vise à lui faire gagner, chiffré (la mesure le confirmera ou non) : ...
+- Ce que votre application vise à lui faire gagner, chiffré (la mesure le confirmera ou non) : Le sujet libre
 
 Sujet libre : votre cahier des charges est dans `CAHIER_DES_CHARGES.md`, à la racine du dépôt.
 

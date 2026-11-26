@@ -14,15 +14,15 @@ Rappels qui valent pour toutes les étapes :
 
 ## Étape 0 - Jeudi 26 novembre, avant 12h30 : l'équipe
 
-- [ ] Former une équipe de trois (ou de deux).
-- [ ] Choisir un nom d'équipe.
-- [ ] Poster dans le chat de la visio : le nom de l'équipe, ses membres, le sujet qui vous tente.
+- [x] Former une équipe de trois (ou de deux).
+- [x] Choisir un nom d'équipe.
+- [x] Poster dans le chat de la visio : le nom de l'équipe, ses membres, le sujet qui vous tente.
 
 ## Étape 1 - Jeudi 26 novembre, atelier de 15h35 à 17h30 : cadrer
 
 ### 1.1 Choisir le sujet
 
-- [ ] Choisir parmi les cinq sujets :
+- [x] Choisir parmi les cinq sujets :
   - 1 : sujet libre ;
   - 2 : Rive Droite Express ;
   - 3 : Panier Girondin ;
@@ -32,7 +32,7 @@ Rappels qui valent pour toutes les étapes :
 
 Sujet libre seulement :
 
-- [ ] Remplir en équipe, **sans IA**, la partie « VOTRE IDÉE » de `PROMPT_SUJET_LIBRE.md`.
+- [x] Remplir en équipe, **sans IA**, la partie « VOTRE IDÉE » de `PROMPT_SUJET_LIBRE.md`.
 - [ ] Faire rédiger le cahier des charges avec ce prompt, **tel quel** : le modifier est une utilisation non autorisée.
 - [ ] Itérer jusqu'à ce que le tableau « Contrôle du cadre » soit entièrement OK (R1 à R9) ; relire chaque chiffre.
 - [ ] Le copier dans `CAHIER_DES_CHARGES.md` à la racine du dépôt.
@@ -46,8 +46,8 @@ Sujet libre seulement :
 
 ### 1.2 Créer le dépôt de l'équipe
 
-- [ ] Créer le dépôt git et donner l'accès aux membres de l'équipe.
-- [ ] Mettre en place la structure demandée :
+- [x] Créer le dépôt git et donner l'accès aux membres de l'équipe.
+- [x] Mettre en place la structure demandée :
 
 ```text
 <équipe>/
