@@ -98,7 +98,7 @@ Qui utilise la plateforme et pour quoi faire : Les utilisateurs sont des cyclist
 
 Ce qui coince aujourd'hui, selon vous : Les itinéraires proposés par l'outil qu'on utilise aujourd'hui ne sont pas toujours pertinents et ne prennent pas en compte les préférences personnelles de l'utilisateur.
 
-La question que le client se pose, avec vos mots : Comment trouver le meilleur itinéraire selon mes préférences et mes checkpoints, et que traiter en premier quand l'urgence d'un ravitaillement ou d'une alerte change en course ?
+La question que le client se pose, avec vos mots : Comment trouver le meilleur itinéraire selon mes préférences et mes checkpoints, et que traiter en premier quand l'urgence d'un ravitaillement change en course ?
 
 Le besoin que vous voyez pour chaque famille (une ligne, même incertaine) :
 - Retrouver : le cycliste saisit le nom d'un lieu (col, village, refuge, point d'eau) pour en faire un checkpoint, même avec une faute de frappe, dans le catalogue des lieux.
